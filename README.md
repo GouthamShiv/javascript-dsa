@@ -8,6 +8,13 @@ This material is created by attending this [Udemy course](https://www.udemy.com/
 
 > 1.  Big O Notation
 
+-   [Need for **Big O Notation**](./material/01-big-o-notation/01-big-o-notation.ipynb)
+-   [Describe what **Big O Notation** is](./material/01-big-o-notation/03-intro-to-big-o.ipynb)
+-   [Simplify **Big O Expressions**]()
+-   [Define **time complexity** and **space complexity**]()
+-   [Evaluate the **time complexity** and **space complexity** of different algorithms using **Big O Notation**]()
+-   [Touch upon **logarithm**]()
+
 > 2.  Analyzing Performance of Arrays and Objects
 
 > 3.  Problem Solving Approach
