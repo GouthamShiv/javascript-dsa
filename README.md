@@ -9,8 +9,9 @@ This material is created by attending this [Udemy course](https://www.udemy.com/
 > [1. Big O Notation](./material/01-big-o-notation/00-index.ipynb)
 
 -   [Need for **Big O Notation**](./material/01-big-o-notation/01-big-o-notation.ipynb)
+-   [Examples to understand need of **Big O**](./material/01-big-o-notation/02-example.ipynb)
 -   [Describe what **Big O Notation** is](./material/01-big-o-notation/03-intro-to-big-o.ipynb)
--   [Simplify **Big O Expressions**]()
+-   [Simplify **Big O Expressions**](./material/01-big-o-notation/04-simplifying-big-o-expression.ipynb)
 -   [Define **time complexity** and **space complexity**]()
 -   [Evaluate the **time complexity** and **space complexity** of different algorithms using **Big O Notation**]()
 -   [Touch upon **logarithm**]()
