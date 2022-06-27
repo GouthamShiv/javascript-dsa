@@ -18,7 +18,7 @@ This material is created by attending this [Udemy course](https://www.udemy.com/
 
 > [2. Analyzing Performance of Arrays and Objects](./material/02-analyzing-performance/00-index.ipynb)
 
--   [Understand how objects and arrays work through the lens of **Big O**]()
+-   [Understand how objects and arrays work through the lens of **Big O**](./material/02-analyzing-performance/01-objects-and-arrays.ipynb)
 -   [See why adding elements to the beginning of an array is costly]()
 -   [Compare and contrast the runtime for arrays and objects, as well as built-in methods]()
 
