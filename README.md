@@ -16,7 +16,11 @@ This material is created by attending this [Udemy course](https://www.udemy.com/
 -   [Evaluate the **time complexity** and **space complexity** of different algorithms using **Big O Notation**](./material/01-big-o-notation/05-space-complexity.ipynb)
 -   [Touch upon **logarithm**](./material/01-big-o-notation/06-logarithms.ipynb)
 
-> 2.  Analyzing Performance of Arrays and Objects
+> [2. Analyzing Performance of Arrays and Objects](./material/02-analyzing-performance/00-index.ipynb)
+
+-   [Understand how objects and arrays work through the lens of **Big O**]()
+-   [See why adding elements to the beginning of an array is costly]()
+-   [Compare and contrast the runtime for arrays and objects, as well as built-in methods]()
 
 > 3.  Problem Solving Approach
 
