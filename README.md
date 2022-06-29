@@ -22,7 +22,10 @@ This material is created by attending this [Udemy course](https://www.udemy.com/
 -   [See why adding elements to the beginning of an array is costly]()
 -   [Compare and contrast the runtime for arrays and objects, as well as built-in methods]()
 
-> 3.  Problem Solving Approach
+> [3. Problem Solving Approach](./material/03-problem-solving-approach/00-index.ipynb)
+
+-   [Define what an algorithm is]()
+-   [Devise a plan to solve algorithms]()
 
 > 4.  Problem Solving Patterns
 
