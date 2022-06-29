@@ -26,6 +26,11 @@ This material is created by attending this [Udemy course](https://www.udemy.com/
 
 -   [Define what an algorithm is](./material/03-problem-solving-approach/01-what-is-algorithm.ipynb)
 -   [Devise a plan to solve algorithms]()
+    -   Understand the problem
+    -   Explore concrete examples
+    -   Break it down
+    -   Solve / Simplify the problem
+    -   Look back and refactor
 
 > 4.  Problem Solving Patterns
 
