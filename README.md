@@ -24,7 +24,7 @@ This material is created by attending this [Udemy course](https://www.udemy.com/
 
 > [3. Problem Solving Approach](./material/03-problem-solving-approach/00-index.ipynb)
 
--   [Define what an algorithm is]()
+-   [Define what an algorithm is](./material/03-problem-solving-approach/01-what-is-algorithm.ipynb)
 -   [Devise a plan to solve algorithms]()
 
 > 4.  Problem Solving Patterns
